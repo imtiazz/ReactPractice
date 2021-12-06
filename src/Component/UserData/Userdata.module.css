@@ -1,0 +1,9 @@
+.User-Data {
+  display: flex;
+  border-style: solid;
+  margin: 2rem auto;
+  width: 30rem;
+  flex-direction: column;
+  border-radius: 5px;
+  border-color: rgba(209, 207, 207, 0.767);
+}
